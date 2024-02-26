@@ -1,0 +1,29 @@
+{
+  "name": "7-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladimir-Arg/JSAQA_7-02.git"
+  },
+  "author": "Argeriskul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladimir-Arg/JSAQA_7-02/issues"
+  },
+  "homepage": "https://github.com/Vladimir-Arg/JSAQA_7-02#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "eslint": "^8.57.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "typescript": "^5.3.3"
+  }
+}
